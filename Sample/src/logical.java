@@ -11,6 +11,7 @@ public class logical {
 	  char u='t';
 	  String o="alan-reji";
 	  System.out.println(o.split("-")[1]);
+	  //Test changes 2
 	  
 	  
 	  System.out.println(x);
